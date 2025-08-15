@@ -37,5 +37,26 @@ IoT-based Human Health Monitoring System ❤️ | Built with Arduino Uno and MAX
 #include "MAX30100_PulseOximeter.h"
 #include <LiquidCrystal_I2C.h>
 
-#define REPORTING_PERIOD_MS 1000
+#define REPORTING_PERIOD_MS 1000 ```
 
+## 📸 Output Results
+
+<table>
+  <tr>
+    <td><img src="Result%20--%20Photos%20%26%20Vedios/Main%20Circuit.jpg" width="300"/></td>
+    <td><img src="Result%20--%20Photos%20%26%20Vedios/Result%20--%20I.jpg" width="300"/></td>
+    <td><img src="Result%20--%20Photos%20%26%20Vedios/Result%20--%20II.jpg" width="300"/></td>
+  </tr>
+</table>
+
+---
+
+## 🎥 Working Video
+[▶ Watch Working Video](Result%20--%20Photos%20%26%20Vedios/Working.mp4)
+
+
+## 👤 Author
+**Zahid Shaikh**  
+- LinkedIn: [https://www.linkedin.com/in/skzahid90281/](https://www.linkedin.com/in/skzahid90281/)
+
+---
